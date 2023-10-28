@@ -6,7 +6,7 @@
 
 - ✏️ Information Systems Engineering Student
 - 💻 Programmer
-- 🎥 Universidad Tecnologica Nacional
+- 📚 Universidad Tecnologica Nacional
 <br>
 
 
