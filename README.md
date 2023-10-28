@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I'm Gabriele Gaggiotti 👋</h1>
 </div>
 
-## Sobre mi
+## About me
 
 - ✏️ Information Systems Engineering Student
 - 💻 Programmer
